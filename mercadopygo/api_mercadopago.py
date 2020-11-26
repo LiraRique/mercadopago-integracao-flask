@@ -1,8 +1,8 @@
 import mercadopago
 import json
 
-CLIENT_ID = 'YOUR_CLIENT_ID'
-CLIENT_SECRET = 'YOUR_CLIENT_SECRET'
+CLIENT_ID = '1280735590581038'
+CLIENT_SECRET = 'hygp27SZgrXEoNzMM8zJ22LxNL6BnkWe'
 
 
 def payment(req, **kwargs):

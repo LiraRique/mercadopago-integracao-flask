@@ -1,5 +1,5 @@
-from mercadopygo import services
-from mercadopygo.api_mercadopago import payment
+import services
+from api_mercadopago import payment
 from flask import Flask, render_template, request, redirect
 
 
